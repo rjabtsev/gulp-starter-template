@@ -1,0 +1,21 @@
+{
+  "name": "gulp-starter-template",
+  "version": "1.0.0",
+  "description": "Gulp Starter Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Rjabtsev <roman.rjabtsev@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-image": "^6.2.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-uglify-es": "^3.0.0",
+    "sass": "^1.39.0"
+  }
+}
